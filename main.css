@@ -1,0 +1,28 @@
+body {
+    background-color: lightskyblue;
+}
+
+article {
+    color:black;
+}
+
+#articleOne {
+    font-family: 'Times New Roman', Times, serif;
+    border-style: double;
+    border-color: chartreuse;
+    border-width: 2cqmax;
+}
+
+#articleTwo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: groove;
+    border-color: crimson;
+    border-width: 2cqmin;
+}
+
+#articleThree{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-style: dotted;
+    border-color: darkgoldenrod;
+    border-width: 2cqi;
+}
